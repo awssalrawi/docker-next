@@ -1,4 +1,4 @@
-name: Lint Check - ${{ github.event.head_commit.message }}
+name: Next.js Lint
 
 on:
   push:
